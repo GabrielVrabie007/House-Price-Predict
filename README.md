@@ -96,9 +96,10 @@ You can download similar datasets from:
 ## Model Performance
 
 Current model achieves:
-- Mean Absolute Error (MAE): $235237.14
-- Mean Square Error (MSE): $177282402869.05
-- R² Score: 0.957
+- Mean Absolute Error (MAE): $823183.465625
+- Mean Square Error (MSE): $1520740652576.1787
+- R² Score: 0.631
+
 
 
 ## Contributing
